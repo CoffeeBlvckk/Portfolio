@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Contact = () => (
+const Projects = () => (
   <section style={styles.section}>
     <div style={styles.container}>
-      <h2 style={styles.heading}>Contact</h2>
+      <h2 style={styles.heading}>Projects</h2>
       <p style={styles.text}>Coming Soon</p>
     </div>
   </section>
@@ -37,4 +37,4 @@ const styles = {
   },
 };
 
-export default Contact;
+export default Projects;
